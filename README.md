@@ -3,6 +3,7 @@
 
 #Group Members
 Jan Harm Kuipers
+
 David Stritzl
 
 #Assignment
